@@ -2,9 +2,10 @@
 
 # >> CHANGE THESE << to match the names you're using
 # Set up our 3 main pieces
-TASK_DEFINITION="awsdevops-api"
-SERVICE="awsdevops-api"
-CLUSTER="awsdevops-cluster"
+# the 3 env variables below are now specified directly in CircleCI:
+TASK_DEFINITION="awsdevops-api-prod"
+SERVICE="awsdevops-api-prod"
+CLUSTER="awsdevops-cluster-prod"
 
 set -e
 
