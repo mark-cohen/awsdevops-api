@@ -4,7 +4,11 @@
     "generateOperationScopedModels": true,
     "apiInfo": {
         "title": "Wowsers! This be the updated API",
+<<<<<<< HEAD
         "description": "You bet yer butt there be dragons here - burn baby burn!"
+=======
+        "description": "You bet yer butt there be dragons here - burn baby burn - Disco Inferno!"
+>>>>>>> staging
     }
   }
 }

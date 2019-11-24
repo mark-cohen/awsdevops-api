@@ -3,9 +3,15 @@
 # >> CHANGE THESE << to match the names you're using
 # Set up our 3 main pieces
 # the 3 env variables below are now specified directly in CircleCI:
+<<<<<<< HEAD
 TASK_DEFINITION="awsdevops-api-prod"
 SERVICE="awsdevops-api-prod"
 CLUSTER="awsdevops-cluster-prod"
+=======
+# TASK_DEFINITION="awsdevops-api-prod"
+# SERVICE="awsdevops-api-prod"
+# CLUSTER="awsdevops-cluster-prod"
+>>>>>>> staging
 
 set -e
 
